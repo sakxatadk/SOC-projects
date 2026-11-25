@@ -1,0 +1,27 @@
+From: "Bank Security Team" <security@secure-bank.example>
+To: customer@example.com
+Reply-To: support@secure-bank-login.example
+Subject: Urgent: Your Account Will Be Suspended!
+Date: Tue, 25 Nov 2026 09:30:00 +0000
+Message-ID: <training-001@secure-bank.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+X-Training-Note: Synthetic phishing investigation sample
+X-Simulated-Authentication-Results: spf=fail; dkim=fail; dmarc=fail
+
+Dear Customer,
+
+We detected unusual activity on your bank account.
+
+For security reasons, your account will be suspended within
+24 hours unless you verify your account immediately.
+
+Please use the link below to verify your information:
+
+https://secure-bank-login.example.invalid/verify
+
+Failure to verify your account may result in permanent
+account suspension.
+
+Thank you,
+Bank Security Department
